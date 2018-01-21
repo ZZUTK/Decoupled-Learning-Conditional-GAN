@@ -7,14 +7,14 @@ Decoupled Learning for Conditional Adversarial Networks
 * Matlab
 * pynvml
 
-## Adaptation on Pix2Pix
+## Adaptation on [Pix2Pix](https://github.com/phillipi/pix2pix)
 Training
 ```
 $ cd Adapt_Pix2Pix
 $ python main.py
 ```
 
-## Adaptation on CAAE
+## Adaptation on [CAAE](https://github.com/ZZUTK/Face-Aging-CAAE)
 Training
 ```
 $ cd Adapt_CAAE
