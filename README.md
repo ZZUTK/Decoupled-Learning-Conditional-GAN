@@ -1,5 +1,5 @@
 # Decoupled-Learning-for-Conditional-Adversarial-Networks
-Decoupled Learning for Conditional Adversarial Networks
+[Decoupled Learning for Conditional Adversarial Networks](https://arxiv.org/pdf/1801.06790.pdf)
 
 ## Pre-requisites
 * Python 2.7x
