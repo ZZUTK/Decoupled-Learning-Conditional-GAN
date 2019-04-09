@@ -31,3 +31,15 @@ Plot curves in Matlab:
 ```
 >> NRDS
 ```
+
+## Citation
+```
+@inproceedings{zhang2018decoupled,
+  title={Decoupled learning for conditional adversarial networks},
+  author={Zhang, Zhifei and Song, Yang and Qi, Hairong},
+  booktitle={2018 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  pages={700--708},
+  year={2018},
+  organization={IEEE}
+}
+```
